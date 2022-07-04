@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = anais.roger@mail.mcgill.ca
+	name = Anais Roger
